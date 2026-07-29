@@ -31,11 +31,11 @@ Minha jornada na tecnologia começou através da busca por novos desafios e hoje
 ## 📊 Estatísticas do GitHub
 
 <div>
-  <a href="https://github.com/dev-daniel-correa">
+  <a href="https://github.com/KuatiFloyd">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-daniel-correa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KuatiFloyd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-daniel-correa&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuatiFloyd&layout=compact&langs_count=6&theme=tokyonight"/>
 
   </a>
 </div>
