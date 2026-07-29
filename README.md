@@ -30,15 +30,17 @@ Minha jornada na tecnologia começou através da busca por novos desafios e hoje
 
 ## 📊 Estatísticas do GitHub
 
-<div>
-  <a href="https://github.com/KuatiFloyd">
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=KuatiFloyd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KuatiFloyd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuatiFloyd&layout=compact&langs_count=6&theme=tokyonight"/>
-
-  </a>
-</div>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuatiFloyd&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ---
 
