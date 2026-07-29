@@ -74,6 +74,4 @@ Busco minha primeira oportunidade como desenvolvedor, aplicando meus conheciment
 
 </div>
 
----
 
-![Snake animation](https://github.com/dev-daniel-correa/dev-daniel-correa/blob/output/github-contribution-grid-snake.svg)
