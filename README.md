@@ -28,22 +28,6 @@ Minha jornada na tecnologia começou através da busca por novos desafios e hoje
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=KuatiFloyd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuatiFloyd&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
 ## 📚 Atualmente estudando
 
 - ☕ Java e desenvolvimento Backend
