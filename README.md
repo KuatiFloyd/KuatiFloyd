@@ -1,24 +1,79 @@
-<div>
-   <a href="https://github.com/KuatiFloyd">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KuatiFloyd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuatiFloyd&layout=compact&langs_count=6&theme=tokyonight"/>
+# Olá, eu sou Daniel Corrêa 👋
 
-</div>
+💻 Desenvolvedor em formação com foco em **Backend Java** e **Python**.
+
+Atualmente construindo minha base em desenvolvimento de sistemas, programação orientada a objetos, APIs REST, bancos de dados e boas práticas de engenharia de software.
+
+Minha jornada na tecnologia começou através da busca por novos desafios e hoje estou dedicado a construir projetos práticos, evoluir minhas habilidades e ingressar profissionalmente na área de desenvolvimento.
+
+---
+
+## 🚀 Tecnologias e ferramentas
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Me sigam nas redes abaixo!
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCVEMRBj0p1BoeiFnCq0wsjw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/danielcorrea.floyd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "https://www.facebook.com/daniel.floyd.359"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/KuatiFloyd/KuatiFloyd/blob/output/github-contribution-grid-snake.svg)
+<img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
+<img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+<img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
+<img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 
 </div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div>
+  <a href="https://github.com/dev-daniel-correa">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-daniel-correa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-daniel-correa&layout=compact&langs_count=6&theme=tokyonight"/>
+
+  </a>
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+- ☕ Java e desenvolvimento Backend
+- 🌱 Programação Orientada a Objetos
+- 🔗 APIs REST
+- 🗄️ Banco de Dados
+- 🐍 Python para automação e análise de dados
+- 🐧 Linux e fundamentos de sistemas
+- 🔧 Git e controle de versão
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como desenvolvedor, aplicando meus conhecimentos em Backend e continuando minha evolução através de projetos reais e aprendizado constante.
+
+---
+
+## 📫 Contato
+
+<div>
+
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+![Snake animation](https://github.com/dev-daniel-correa/dev-daniel-correa/blob/output/github-contribution-grid-snake.svg)
